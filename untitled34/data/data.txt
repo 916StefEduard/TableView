@@ -1,3 +1,0 @@
-12;Andrei
-15;Bogdan
-17;Mihai
